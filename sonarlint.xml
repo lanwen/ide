@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.qatools.yandex-team.ru" />
+          <token />
+          <option name="name" value="Sonar Qatools" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

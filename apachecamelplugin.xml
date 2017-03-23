@@ -1,0 +1,5 @@
+<application>
+  <component name="CamelPreferences">
+    <option name="customIconFilePath" value="$USER_HOME$/prj/camel-idea-plugin/camel-idea-plugin/src/main/resources/icons/5cam.png" />
+  </component>
+</application>

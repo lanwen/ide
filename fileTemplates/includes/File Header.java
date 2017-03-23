@@ -1,0 +1,3 @@
+/**
+ * @author ${USER} (Merkushev Kirill)
+ */

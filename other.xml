@@ -1,0 +1,24 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.1.0" last-modified="1478631212000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.1.0/bin/node" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Startrek queue="SHERLOCK" shared="false" token="AQAD-qJSJiYcAAAGMw6Ed9kjDEz8qdzjQmSimE4" url="https://st-api.yandex-team.ru">
+      <commitMessageFormat>{id}: {summary}</commitMessageFormat>
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+    </Startrek>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
