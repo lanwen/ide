@@ -11,6 +11,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.j2" type="XML" />
     </extensionMap>
