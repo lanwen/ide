@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://activemq.apache.org/schema/core" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/356fee2_activemq-core.xsd" />
+    <resource url="http://www.hazelcast.com/schema/config/hazelcast-config-3.8.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/87d40170_hazelcast-config-3.8.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/334543e7_spring-beans.xsd" />
   </component>
 </application>
