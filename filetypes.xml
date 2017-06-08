@@ -8,6 +8,7 @@
       <mapping pattern="META-INF/services/org/apache/camel/TypeConverter" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
