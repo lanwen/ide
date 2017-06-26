@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="lanwen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.qe-infra.yandex-team.ru" />
+          <option name="userName" value="lanwen" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
