@@ -21,6 +21,16 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="ScrollPane-scrollUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="ScrollPane-unitScrollDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
