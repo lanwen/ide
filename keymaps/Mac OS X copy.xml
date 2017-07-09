@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
