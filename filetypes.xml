@@ -25,6 +25,7 @@
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="loc" type="PLAIN_TEXT" />
       <mapping ext="msgpack" type="PLAIN_TEXT" />
+      <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
