@@ -13,6 +13,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="taglib" type="PLAIN_TEXT" />
       <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="weather" type="PLAIN_TEXT" />
       <mapping pattern="TypeConverter" type="PLAIN_TEXT" />
