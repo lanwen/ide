@@ -17,6 +17,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="weather" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="TypeConverter" type="PLAIN_TEXT" />
       <mapping pattern="activemq/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
