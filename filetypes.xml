@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".bash_aliase" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="lib" type="PLAIN_TEXT" />
@@ -13,8 +12,8 @@
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-jenkins" type="PLAIN_TEXT" />
-      <mapping pattern="taglib" type="PLAIN_TEXT" />
       <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="taglib" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="weather" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping pattern="TypeConverter" type="PLAIN_TEXT" />
       <mapping pattern="activemq/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping ext="msgpack" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
@@ -29,15 +29,14 @@
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="loc" type="PLAIN_TEXT" />
-      <mapping ext="msgpack" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="state" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="hbs" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="jelly" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
