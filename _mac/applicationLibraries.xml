@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="app">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/code/emergency-data-service/app/build/libs/app.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="app (2)">
       <CLASSES>
         <root url="jar://$USER_HOME$/code/kyc-service/app/build/libs/app.jar!/" />
