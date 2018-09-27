@@ -21,8 +21,10 @@
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="160" />
