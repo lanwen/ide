@@ -19,6 +19,11 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
+    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="160" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
