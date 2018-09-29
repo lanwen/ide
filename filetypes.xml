@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-prep" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="ges" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
