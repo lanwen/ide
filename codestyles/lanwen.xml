@@ -14,7 +14,7 @@
     </value>
   </option>
   <option name="JD_P_AT_EMPTY_LINES" value="false" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
@@ -23,11 +23,18 @@
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
-    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="160" />
@@ -37,12 +44,5 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
