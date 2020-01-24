@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="com/github/bsideup/liiklus/transport/grpc/config/GRPCAuthConfig" type="CLASS" />
       <mapping pattern="Dockerfile-prep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
