@@ -4,6 +4,7 @@
       <mapping pattern="com/github/bsideup/liiklus/transport/grpc/config/GRPCAuthConfig" type="CLASS" />
       <mapping pattern="Dockerfile-prep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="start-session" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="2019-05-01_clickhouse-materialized-vews-from-json" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
