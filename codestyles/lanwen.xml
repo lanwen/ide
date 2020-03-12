@@ -13,7 +13,50 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="JD_P_AT_EMPTY_LINES" value="false" />
+  <DB2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </HSQLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -23,6 +66,63 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
@@ -37,6 +137,18 @@
     <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="160" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
