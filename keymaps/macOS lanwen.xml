@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="ChangesView.Move" />
   <action id="CloseProject">
