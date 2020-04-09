@@ -3,6 +3,11 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
@@ -14,6 +19,11 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
@@ -29,9 +39,11 @@
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextEditorTab" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="ctrl r" />
