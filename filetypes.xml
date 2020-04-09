@@ -15,13 +15,13 @@
       <mapping ext="crl" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="blockhoundintegration" type="PLAIN_TEXT" />
       <mapping ext="cfn" type="PLAIN_TEXT" />
       <mapping ext="next" type="PLAIN_TEXT" />
       <mapping ext="ges" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
