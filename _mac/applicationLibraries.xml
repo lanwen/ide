@@ -12,6 +12,17 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/code/github.com/lanwen/pulsar-functions-example/apache-pulsar-2.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/code/github.com/lanwen/pulsar-functions-example/apache-pulsar-2.5.0/lib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/code/github.com/lanwen/pulsar-functions-example/apache-pulsar-2.5.0/lib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/code/github.com/lanwen/pulsar-functions-example/apache-pulsar-2.5.0/lib" recursive="false" type="SOURCES" />
+    </library>
     <library name="org.projectlombok:lombok:1.18.4" type="repository">
       <properties maven-id="org.projectlombok:lombok:1.18.4" />
       <CLASSES />
