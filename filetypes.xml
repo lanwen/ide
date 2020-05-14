@@ -15,6 +15,7 @@
       <mapping ext="crl" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="blockhoundintegration" type="PLAIN_TEXT" />
       <mapping ext="cfn" type="PLAIN_TEXT" />
