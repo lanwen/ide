@@ -12,6 +12,7 @@
       <mapping pattern=".github/CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="serial" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="crl" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
