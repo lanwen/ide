@@ -1,29 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="com/github/bsideup/liiklus/transport/grpc/config/GRPCAuthConfig" type="CLASS" />
-      <mapping pattern="start-session" type="PLAIN_TEXT" />
-      <mapping pattern=".github/CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="2019-05-01_clickhouse-materialized-vews-from-json" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="auth-totp-pwd-grant" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-prep" type="PLAIN_TEXT" />
-      <mapping pattern="serial" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="blockhoundintegration" type="PLAIN_TEXT" />
-      <mapping ext="cfn" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="next" type="PLAIN_TEXT" />
-      <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="ges" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="crl" type="PLAIN_TEXT" />
-      <mapping ext="lombok" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
