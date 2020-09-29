@@ -31,6 +31,12 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
