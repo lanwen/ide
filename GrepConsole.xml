@@ -99,6 +99,14 @@
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="caseInsensitive" value="true" />
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*Illegal reflective access.*" />
+                      <option name="inputFilter" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
@@ -109,5 +117,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
