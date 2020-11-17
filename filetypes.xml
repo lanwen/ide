@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="origin" type="PLAIN_TEXT" />
       <mapping pattern="marker" type="PLAIN_TEXT" />
       <mapping pattern="vivy-deploy" type="PLAIN_TEXT" />
       <mapping pattern="DEPRECATED" type="PLAIN_TEXT" />
