@@ -13,9 +13,9 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <DB2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -25,9 +25,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -37,12 +37,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DerbyCodeStyleSettings>
-  <GoCodeStyleSettings>
-    <option name="IMPORT_SORTING" value="GOIMPORTS" />
-  </GoCodeStyleSettings>
-  <H2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -52,9 +49,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -73,9 +70,9 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -85,9 +82,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -97,9 +94,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -109,9 +106,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -121,9 +118,9 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -133,9 +130,8 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -147,9 +143,9 @@
     <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="3" />
     <option name="TABLE_OPENING" value="1" />
@@ -171,12 +167,5 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-  </codeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
