@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
