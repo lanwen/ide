@@ -6,6 +6,7 @@
       <mapping pattern="origin" type="PLAIN_TEXT" />
       <mapping pattern="marker" type="PLAIN_TEXT" />
       <mapping pattern="vivy-deploy" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="DEPRECATED" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
