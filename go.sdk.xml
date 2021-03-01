@@ -13,6 +13,7 @@
         <option value="file:///usr/local/Cellar/go/1.14.1/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.2/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.3/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.16/libexec" />
         <option value="file:///usr/local/Cellar/go/1.8.3/libexec" />
         <option value="file:///usr/local/opt/go/libexec" />
         <option value="file:///usr/local/opt/golang/libexec" />
